@@ -7,6 +7,7 @@
 * [京东手机列表价格信息链接爬取](./JDSpider)
 * [糗事百科段子爬取](./qiushibaike)
 * [卖座网及猫眼电影资讯爬取](./cinemasSpider)
+* [Django初试水](./homePage)
 * [alipython](./alipython)
 * [pythonSpider](./pythonSpider)
 * [python_range](./python_range)
