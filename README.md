@@ -1,3 +1,10 @@
+#Python
+
+![](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg)
+![](https://img.shields.io/npm/l/express.svg)
+![](https://img.shields.io/pypi/status/Django.svg)
+___
+
 ![](https://github.com/alihanniba/My-Cover-Card/blob/master/me.png)
 ---
 
@@ -15,4 +22,4 @@
 ###[Welcome issue](https://github.com/alihanniba/pythonDemo/issues)
 
 
-![](https://github.com/alihanniba/My-Cover-Card/blob/master/alihanniba.png)
+![Logo](http://alihanniba.github.io/alihanniba.png)
